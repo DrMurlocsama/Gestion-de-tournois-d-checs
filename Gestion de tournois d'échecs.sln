@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionEchecs", "Gestion de tournois d'échecs\GestionEchecs.csproj", "{46866E3B-83CB-48DA-9F89-82ED4135D77F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TournoiEchec.DAL", "TournoiEchec.DAL\TournoiEchec.DAL.csproj", "{2F9E2E78-B4C9-433A-8CCB-916AB50113FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46866E3B-83CB-48DA-9F89-82ED4135D77F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46866E3B-83CB-48DA-9F89-82ED4135D77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46866E3B-83CB-48DA-9F89-82ED4135D77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46866E3B-83CB-48DA-9F89-82ED4135D77F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F9E2E78-B4C9-433A-8CCB-916AB50113FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9E2E78-B4C9-433A-8CCB-916AB50113FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9E2E78-B4C9-433A-8CCB-916AB50113FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9E2E78-B4C9-433A-8CCB-916AB50113FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86B79698-DC2A-4C80-A03B-7EBB07C8D4C0}
+	EndGlobalSection
+EndGlobal
